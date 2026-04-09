@@ -2,7 +2,7 @@
 title: Beliefs, evidence, and confirmation bias
 subtitle: Experimental study on pre-service teachers‘ engagement with evidence
 author: Kirstin Schmidt,<br>Florian Kuehlwein, & Samuel Merk
-footer: Link Slides!
+footer: Link Slides!test
 institute: Karlsruhe University of Education, Germany 
 logo: img/ph-logo.svg
 picture: img/confbias_metapher_1.png
