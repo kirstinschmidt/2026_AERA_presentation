@@ -15,8 +15,9 @@ lightbox: auto
 self-contained: true
 bibliography: references.bib
 csl: apa.csl
-notes: From Germany - a small University focusing on teacher training
+
 ---
+
 
 ## Overview {{< iconify tabler:list-filled >}} {.smaller .center} 
 
@@ -47,7 +48,7 @@ notes: From Germany - a small University focusing on teacher training
 
 ::: notes
 
-in a classical manner short theoretical introdruction, before presenting our experimental study
+in a classical manner short theoretical introduction, before presenting our experimental study
 
 ::: 
 
@@ -55,21 +56,27 @@ in a classical manner short theoretical introdruction, before presenting our exp
 
 > Teachers' professional competence involves, among others, considering scientific findings [ @bauer2015; @bromme2014; @slavin2002]
 
+<!--
+
 <center> ![@schmidt2024; @grossophoff2023](img/Groß_Ophoff et al (2023)_adapted.png){width=200}</center>
 
-* However, teachers often do not rely on evidence in their practice [e.g., @dagenais2012] due to diverse problems on the ...
+--> 
+
+* However, teachers often do not rely on evidence in their practice [e.g., @dagenais2012] due to diverse challenges on the ...
   * ... research knowledge level (e.g., comprehensibility of evidence)
   * ... school organizational level (e.g., limited time)
   * ... communication level (e.g., missing cooperation between teachers and researchers)
-  * ... individual teacher level (e.g., competences) <br>
+  * ... individual teacher level (e.g., unfavorable beliefs) <br>
   [@schaik2018]
 
 <!-- Fontsize Quelle kleiner -->
 
 ::: notes
 
-- As most of you may know: ALthough teachers professional competence includes considering scientific evidence, teachers often do not rely on evidence
-- reasons for this gap a diverse and can be clustered into different barriers such as on the 1) research knowledge level e.g., difficult to understand evidence or individual teacher level e.g., beliefs that contradict evidence; educational misconceptions and myths are widespread
+- As most of you may know: Considering evidence in teaching practice is part of teachers' professional competence
+- when considering such evidence, e.g., in lessons planing - we speak of evidence-informed practice
+- However, teachers often do not rely on such evidence
+- reasons for this gap a diverse and can be clustered into different levels such as the 1) research knowledge level or individual teacher level 
 
 
 ::: 
@@ -78,22 +85,21 @@ in a classical manner short theoretical introdruction, before presenting our exp
 
 > Teachers' professional competence involves, among others, considering scientific findings [@bauer2015; @bromme2014; @slavin2002]
 
+<!--
 <center> ![@schmidt2024; @grossophoff2023](img/Groß_Ophoff et al (2023)_adapted.png){width=200}</center>
+--> 
 
 * However, teachers often do not rely on evidence in their practice [e.g., @dagenais2012] due to diverse problems on the ...
   * ... *research knowledge level (e.g., comprehensibility of evidence) &rarr; focus of the next presentation*
   * ... school organizational level (e.g., limited time)
   * ... communication level (e.g., missing cooperation between teachers and researchers)
-  * ... **individual teacher level (e.g., beliefs)** <br>
+  * ... **individual teacher level (e.g., unfavorable beliefs)** <br>
   [@schaik2018]
 
-<!-- Persistenz und Verbreitung von Fehlkonzepten ergänzen --> 
 
 ::: notes
 
-- while in the next presentation my colleague Florian will focus on analyzing research knowledge level in more detail, I will focus on the individual level 
-
-- One explanation for those unfavorable beliefs is the so-called confirmation bias 
+- while in the next presentation my colleague Florian will focus on analyzing research knowledge level in more detail, I will focus on the individual level. From previous research we know that educational misconceptions and myths are widespread and I will dive deeper into one explanation why it might be so hard to debunk thes unfavorable beliefs. that is the so-called confirmation bias 
 
 :::
 
@@ -118,10 +124,9 @@ in a classical manner short theoretical introdruction, before presenting our exp
 ::: notes
 
 - Confirmation bias means that prior beliefs distort searching, interpreting and reminding information
-- more specifically information that is congruent with ones own prior beliefs is preferred, perceived as more validating, and better rememberd 
-- Contrary, information that is incongruent with ones own beliefs is ignored, more quickly devalued, questioned, or poorly remembered
-- Confirmation bias has differnet components - focus on component of interpreting evidence 
-
+- Thus, confirmation bias has different components - focus on component of interpreting evidence 
+- more specifically information that is congruent with ones own prior beliefs is perceived as more validating
+- Contrary, information that is incongruent with ones own beliefs more quickly devalued or questioned
 
 :::
 
@@ -134,7 +139,7 @@ in a classical manner short theoretical introdruction, before presenting our exp
 * ... their evaluation of the potency of educational research findings [(»scientific impotence excuse«) @futterleib2022; @thomm2021].
 
 ::: {.fragment}
-> [{{< iconify fa7-solid:surprise >}}]{.imp2} However, they update their beliefs in line with the evidence [@futterleib2022; @thomm2021]
+> [{{< iconify fa7-solid:surprise >}}]{.imp2} However, students update their beliefs in line with belief-incongruent evidence [@futterleib2022; @thomm2021]
 :::
 
 <!-- 
@@ -144,11 +149,12 @@ in a classical manner short theoretical introdruction, before presenting our exp
 ::: notes 
 
 - when we now focus on educational contexts, little research on ConfBias exists
-- The few studies that exist indicate that confirmation bias influences the engagement with evidenc: 
-  - (Pre-service) teachers and teachers' beliefs influence how scientific results are evaluated, to what extent they trust claims from educational research and how they evaluate the potency of educational research findings. The pattern is always the same: evidence that does not align with one’s own beliefs is interpreted as less positive. 
-- But surprisingly - especially when thinking of the research on educational myths and misconceptions - two studies found that student teachers update their beliefs in line with the evidence. So this is in contrast to confirmation bias.
+- The few studies that exist indicate that confirmation bias influences the engagement with evidence: 
+  - Student teachers devalue the quality of educational research studiesand also question the potency of educational research findings when they are incongruent to their beliefs 
+  - in-service teachers trust claims from educational research less if they are incongruent than congruent to their beliefs 
+- But surprisingly when thinking about the theory of ConfBias two studies found that student teachers update their beliefs in line with the evidence although evidence contradicted their beliefs
   
-- Thus our idea was to see whether we could conceptually replicate this discrepancy between distortet interpretation / evaluation and belief updating.
+- Thus, we wanted to see whether we could conceptually replicate this discrepancy between distortet interpretation / evaluation and belief updating.
 
 ::: 
 
@@ -187,7 +193,7 @@ in a classical manner short theoretical introdruction, before presenting our exp
 - hence, we asked whether
    + 1) student teachers' prior beliefs influence the evaluation of study results
    + 2) they update their beliefs in line with the eivdence
-   + 3) and to what extent the in(congruency) of belief and evidence influences student teachers certainty in their beliefs
+   + 3) and to what extent the in(congruency) of belief and evidence influences student teachers certainty in their beliefs. As more general research on ConfBias shows that the more certain people are, the more likely they'll stick to it even after receiving information that contradicts it
 
 ::: 
 
@@ -216,11 +222,10 @@ in a classical manner short theoretical introdruction, before presenting our exp
 
 ## Design and material {.smaller .scrollable}
 
-* Between-person design based on the topic "__gender-sensitive language in school__"
-  + Does the usage of generic masculine lead to a disproportionate association with male students (male bias) among teachers?
+* Between-person design
+  + Topic "__gender-sensitive language in school__": Does the usage of generic masculine leads to a disproportionate association with male students (male bias) among teachers?
   + Vignette informing about an experimental study that either finds or does not find a male bias
 * Dependent Variables
-  + *Intention to act*
   + __Belief direction__: I believe that the use of the masculine form...
      + … leads to an disproportionate association with male students.
      + … does not lead to an disproportionate association with male students.
@@ -230,25 +235,29 @@ in a classical manner short theoretical introdruction, before presenting our exp
 
 ::: notes
 
-- in the experiment we focused on the topic gender-sensitive language in school. In other words, the leading question was whether the usage of generic masculine lead to a disproportionate association with male students (male bias) among teachers
-- as the experimental manipulation, the participants were confronted with a vignette informing about an experimental study on the topic of male bias. In this vignette the study results randomly indicated evidence in favor of a male bias or evidence against a male bias
-- before the students were presented with the vignette they indicated their belief on this topic - which we called belief direction
+- in the experiment we focused on the topic gender-sensitive language in school. In other words, the leading question was whether the **usage of generic masculine leads to a disproportionate association with male students (male bias)** among teachers
+- First of all, the students indicated their belief on this topic - which we called belief direction
 - and how certain they are in this belief
+- then participants were confronted with a vignette informing about an experimental study on the topic of male bias. In this vignette the study results randomly were either in favor of a male bias or against a male bias. This was our experimental manipulation that allowed us to derive the variable incongruency of belief and evidence
+
 - after reading the vignette they evaluated the studies' quality and again indicated their belief direction and certainty 
 
 
-and here are the resutls 
+and here are the results
 :::
  
 ## Results: Study Evaluation {.smaller}
 
 <center> ![](img/study_evaluation.png){} </center>
 
-*β1 = -0.83, 90% Credible Interval(CI) = [-1.07; -0.59], Evidence ratio = Inf*
+*β1 = -0.83, 90% Credible Interval(CI) = [-1.07; -0.59]*
 
 ::: notes
 
-with regard to the first RQ, whether student teachers' prior beliefs influence the evaluation of study results, we found - as you can see in this visualization - that they were more convinced by the studies' findings when the results were congruent to their beliefs compared to belief-incongruent results. This descriptive result was also backed up with Bayesian inferential statistic.
+with regard to the first RQ, whether student teachers' prior beliefs influence the evaluation of study results, we found - as you can see in this visualization - that 
+
+- student teachers facing belief-congruent evidence were more convinced by the results than those students facing belief-incongruent results
+- the results were also backed up with Bayesian inferential statistic
 
 
 ::: 
@@ -257,25 +266,26 @@ with regard to the first RQ, whether student teachers' prior beliefs influence t
 
 <center> ![](img/updating_belief_direction.png){} </center>
 
-*5% probability for updating belief direction; 90% CI = [-0.04; 0.16], evidence ratio = 0.23 bzw. evidence ratio = 4.82*
+*5% probability for updating belief direction; 90% CI = [-0.04; 0.16]*
 
 ::: notes
 
-- In this visualization you can see that in both groups most of the participants stick to their prior beliefs - which you can see in the light green rectangles
-- However, the Bayesian analaysis revealed inconclusive results
+- Regarding RQ2 you can see that in both experimental groups most of the participants stick to their prior beliefs - which you can see in the light green rectangles
+- For example: 15 people that believed that male bias does not exist indicated by 2, whereas after reading belief-incongruent evidence that they believed in the existence of male bias
+- However, the Bayesian analysis were inconclusive
 
 ::: 
 
 ## Results: Updating Belief Certainty {.smaller}
 
-<center> ![](img/belief_certainty.png){width=90%} </center> 
+<center> ![](img/belief_certainty.png){width=80%} </center> 
 
-*belief-congruent: Cohen’s d = 0.63 CI[0.38; 0.87], Evidenz Ratio = Inf; belief-incongruent: Cohen’s d = -0.30 CI[-0.56; -0.06], Evidenz Ratio = 49.63*
+*belief-congruent: Cohen’s d = 0.63 CI[0.38; 0.87]; belief-incongruent: Cohen’s d = -0.30 CI[-0.56; -0.06]*
 
 ::: notes
 
-- regarding RQ3 we can descriptively see and found strong evidence that after reading belief-congruent evidence, student teachers are more certain in their belief. 
-- But student teachers confronting with belief-incongruent evidence are less certain in their prior belief. 
+- focusing on RQ3, we can descriptively see and found strong evidence that after reading belief-congruent evidence, student teachers increased their certainty in their belief. 
+- whereas student teachers confronting with belief-incongruent evidence decreased their certainty
 
 ::: 
 
@@ -289,6 +299,11 @@ Intention
 ## Discussion {.smaller}
 
 ::: {.fragment}
+> Current study partially replicated the discrepancy between selective judgment (as part of confirmation bias) and belief updating 
+
+:::
+
+::: {.fragment}
 * {{< iconify ci:check-all-big >}}
 Student teachers evaluate scientific evidence based on their beliefs
 :::
@@ -298,25 +313,27 @@ Student teachers evaluate scientific evidence based on their beliefs
 
 :::
 
-::: {.fragment}
-> Current study partially replicated the discrepancy between selective judgment (as part of confirmation bias) and belief updating 
 
-:::
 
 ::: notes
 
-* Study not without limitations, especially regaring the external validity (topic, way of recruiting sample) 
-*Folglich ist festzuhalten, dass selbst wenn (angehende) Lehrpersonen Evidenz heranziehen, dies nicht automatisch zu informierten Entscheidungen, da ihre eigenen Überzeugungen substanziell die Evaluation von Evidenz beeinflussen. Andererseits reduzieren die beteiligten Lehramtsstudierenden trotz der Existenz selektiver Beurteilung die Sicherheit in ihre Überzeugung. Sie scheinen also nicht unreflektiert an ihren Überzeugungen festzuhalten.
+<!-- * Study not without limitations, especially regaring the external validity (topic, way of recruiting sample), small sample  --> 
+
+* We an conclude that the study partially replicated the discrepancy between selective judgment and belief updating
+* First, even if teachers engage with evidence it does not automaticallly mean this does not automatically lead to informed decisions, as their own beliefs substantially influence their evaluation of the evidence.
+
 
 :::
 
 ## Discussion
 
-> Situative adaption or true belief updating?
+> True belief updating?
 
 ::: {.fragment}
 
-- Degree of updating might depend on evidence characteristics (e.g., difference in research design, engaging with one vs. multiple scientific results on the same topic)
+- Degree of updating might depend on 
+  + evidence characteristics (e.g., difference in research design: engaging with one vs. multiple scientific results on the same topic)
+  + the context (misconceptions that die hard (Menz et al. ) vs. beliefs that are more easily formable )
 ::: 
 
 <!--
@@ -327,17 +344,14 @@ Student teachers evaluate scientific evidence based on their beliefs
 
 --> 
 
-::: {.fragment}
-- More differentiated picture of belief updating: misconceptions that die hard (Menz et al. ) vs. beliefs that are more easily formable 
-::: 
-  
 
 
 ::: notes
 
-Focus on 
-- supporting evaluation of evidence
-- ways to counteract persistent beliefs - often confronting students with contradictory evidence 
+- However, there is a difference between prior research and our study: our participants did not change their belief direction
+- But these results do not necessarily contradict each other because the belief updating might depend on evidence characteristics
+- while we presented on study on the topic of male bias thomm and colleagues as well as futterleib and collegues presented multiple results
+
 :::
 
 
