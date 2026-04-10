@@ -2,7 +2,7 @@
 title: Beliefs, evidence, and confirmation bias
 subtitle: Experimental study on pre-service teachers‘ engagement with evidence
 author: Kirstin Schmidt,<br>Florian Kuehlwein, & Samuel Merk
-footer: Link Slides!test
+footer: https://kirstinschmidt.github.io/2026_AERA_presentation/
 institute: Karlsruhe University of Education, Germany 
 logo: img/ph-logo.svg
 picture: img/confbias_metapher_1.png
@@ -40,11 +40,11 @@ csl: apa.csl
 * Discussion
 * References
 
-
+<!--
 ::: footer
 {{< iconify academicons:open-materials >}} Slides cc-by {{< iconify academicons:creative-commons-by >}} following !KURZLINK!
 :::
-
+-->
 
 ::: notes
 
