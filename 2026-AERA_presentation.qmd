@@ -158,7 +158,7 @@ in a classical manner short theoretical introduction, before focusing in more de
 --> 
 
   - To give an example: in-service teachers trust claims from educational research less if they are incongruent than congruent to their beliefs 
-- But surprisingly two studies found that student teachers update their beliefs in line with the evidence although evidence contradicted their beliefs
+- But surprisingly two studies found that student teachers update their beliefs in line with belief-incongruent evidence
   
 - Thus, we wanted to see whether we could conceptually replicate this discrepancy between distortet interpretation / evaluation and belief updating.
 
@@ -279,7 +279,7 @@ with regard to the first RQ, whether student teachers' prior beliefs influence t
 - Coming to RQ2
 - in the two facets you can see the two experimental groups 
 - most of the participants stick to their prior beliefs - which you can see in the light green rectangles. For example, 84 students who believed that male bias does not exist (indicated by 2), they still believed the same after seeing evidence that supported the existence of male bias
-- Contrary, 15 people that believed that male bias does not exist indicated by 2, whereas after reading evidence that supperted the existence of male bias that they updated their belief in line with the evdence 
+- Contrary, 15 people that believed that male bias does not exist, updated their beliefs in line with evidence that supported the existence of male bias 
 - However, the Bayesian analysis were inconclusive
 
 ::: 
@@ -361,7 +361,7 @@ So one take home message could be that we have to support student teachers in ev
 
 ::: notes
 
-- However, there is a difference between nd our study and previous study: our participants did not change their belief direction
+- However, there is a difference between our study and previous ones: our participants did not change their belief direction
 - But these results do not necessarily contradict each other because the belief updating might depend on evidence characteristics
   - while we presented one study on the topic of male bias,in the prior studies  multiple results on the same topic were presented
   - it also leads to the question what degree of updating is adequate? because we don't want students to blindly trust research - do we? right now - no answer to the question
