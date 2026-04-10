@@ -151,10 +151,12 @@ in a classical manner short theoretical introduction, before presenting our expe
 
 - little research on ConfBias exists in educational context
 - The few studies that exist indicate that confirmation bias influences the engagement with evidence: 
+
 <!-- 
   - Student teachers devalue the quality of educational research studies and also question the potency of educational research findings when they are incongruent to their beliefs 
   
 --> 
+
   - To give an example: in-service teachers trust claims from educational research less if they are incongruent than congruent to their beliefs 
 - But surprisingly two studies found that student teachers update their beliefs in line with the evidence although evidence contradicted their beliefs
   
@@ -242,7 +244,7 @@ in a classical manner short theoretical introduction, before presenting our expe
 - the experiment was framed by the topic gender-sensitive language in school with the leading question whether the **usage of generic masculine leads to a disproportionate association with male students** among teachers - in other words: male bias
 - First of all, the students indicated their belief on this topic - which was our dependent variable belief direction
 - and how certain they are in this belief - DV belief certainty (likert item)
-- then participants were confronted with a vignette informing about an experimental study on the topic of male bias. In this vignette the study results randomly either supported the existence of a male bias or not. This was our experimental manipulation that allowed us to derive the variable incongruency of belief and evidence. So the results were not per se belief-incongruent or belief-congruent, it was always an interplay with the indicated beliefs.
+- then participants were confronted with a vignette informing about an experimental study on the topic of male bias. In this vignette the study results randomly either supported the existence of a male bias or not. The different vignette versions and the indicated beliefs were the basis of our experimental manipulations - the variable incongruency of belief and evidence. So the vignettes were not per se belief-incongruent or belief-congruent, it was always an interplay with the indicated beliefs.
 
 - after reading the vignette they evaluated the studies' quality (likter item) and again indicated their belief direction and certainty 
 
@@ -260,6 +262,7 @@ and here are the results
 
 with regard to the first RQ, whether student teachers' prior beliefs influence the evaluation of study results, we found - as you can see in this visualization - that 
 - student teachers facing belief-congruent evidence were more convinced by the results than those students facing belief-incongruent results
+
 - this large effect was also backed up with Bayesian inferential statistic
 
 
@@ -327,10 +330,9 @@ Student teachers evaluate scientific evidence based on their beliefs
 * different aspects to discuss but I will focus one 2 things: 
 
 * We can conclude that the study partially replicated the discrepancy between selective judgment and belief updating
-* First, student teachers evaluate evidence based on their beliefs. Even if teachers engage with evidence it does not automatically lead to informed decisions. So one take home message could be that we have to support student teachers in evaluating evidence 
+* First, student teachers evaluate evidence based on their beliefs. Even if teachers engage with evidence it does not automatically lead to informed decisions. So one take home message could be that we have to support student teachers in evaluating evidence to reduce the influence of prior beliefs
 
-* However, they do not stick to their beliefs without any reflection. Because they update their certainty
-
+* However, we found that although they do not update their direction, they update their certainty. Quite promising as they do not stick to their beliefs without any reflection
 
 :::
 
@@ -358,10 +360,13 @@ Student teachers evaluate scientific evidence based on their beliefs
 
 ::: notes
 
-- However, there is a difference between prior research and our study: our participants did not change their belief direction
+- However, there is a difference between nd our study and previous study: our participants did not change their belief direction
+- it also leads to the question what degree of updating is adequate? because we don't want students to blindly trust research - do we? 
 - But these results do not necessarily contradict each other because the belief updating might depend on evidence characteristics
-- while we presented one study on the topic of male bias thomm and colleagues as well as futterleib and collegues presented multiple results
+- while we presented one study on the topic of male bias,in the prior studies  multiple results on the same topic were presented
 - another take home message: But one way could be confronting students with multiple evidence on the same topic
+
+
 - other influencing factors might also exist, e.g. context. There might be beliefs that are harder to debunk than others. 
 
 
