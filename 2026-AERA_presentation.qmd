@@ -99,8 +99,8 @@ in a classical manner short theoretical introduction, before presenting our expe
 
 ::: notes
 
-- while in the next presentation my colleague Florian will focus on analyzing research knowledge level in more detail, I will focus on the individual level. 
-- when thinking of teachers' beliefs about educational research, previous research shows that educational misconceptions and myths are widespread and hard to debunk One explanation might be the so-called confirmation bias 
+- while in the next presentation my colleague Florian will focus on the research knowledge level, I will focus on the individual level. 
+- when thinking of teachers' beliefs about educational research, previous research shows that educational misconceptions and myths are widespread and hard to debunk, and thus can be a barrier for EIP. One explanation for sticking to unfavorable beliefs might be the so-called confirmation bias 
 
 :::
 
@@ -127,7 +127,7 @@ in a classical manner short theoretical introduction, before presenting our expe
 - Confirmation bias means that prior beliefs distort searching, interpreting and reminding information
 - Thus, confirmation bias has different components - focus on component of interpreting evidence 
 - more specifically information that is congruent with ones own prior beliefs is perceived as more validating
-- Contrary, information that is incongruent with ones own beliefs more quickly devalued or questioned
+- Contrary, information that is incongruent with ones own beliefs is more quickly devalued or questioned
 
 :::
 
@@ -149,7 +149,7 @@ in a classical manner short theoretical introduction, before presenting our expe
 
 ::: notes 
 
-- when we now focus on educational contexts, little research on ConfBias exists
+- little research on ConfBias exists in educational context
 - The few studies that exist indicate that confirmation bias influences the engagement with evidence: 
 <!-- 
   - Student teachers devalue the quality of educational research studies and also question the potency of educational research findings when they are incongruent to their beliefs 
@@ -197,7 +197,7 @@ in a classical manner short theoretical introduction, before presenting our expe
 - hence, we asked whether
    + 1) student teachers' prior beliefs influence the evaluation of study results
    + 2) they update their beliefs in line with the eivdence
-   + 3) and to what extent the in(congruency) of belief and evidence influences student teachers certainty in their beliefs. As more research on ConfBias more broadly shows that the more certain people are, the more likely they'll stick to it even after receiving information that contradicts it
+   + 3) and to what extent the in(congruency) of belief and evidence influences student teachers certainty in their beliefs - as research on ConfBias more generally shows that the more certain people are in their belief, the more likely they'll stick to it after receiving information that contradicts their belief
 
 ::: 
 
@@ -206,7 +206,7 @@ in a classical manner short theoretical introduction, before presenting our expe
 
 ::: notes 
 
-- to answer these questions we conducated a between person experiment ...
+- to answer these questions we conducted a between person experiment ...
 
 ::: 
 
@@ -239,10 +239,10 @@ in a classical manner short theoretical introduction, before presenting our expe
 
 ::: notes
 
-- the experiment was framed by the topic gender-sensitive language in school. In other words, the leading question was whether the **usage of generic masculine leads to a disproportionate association with male students (male bias)** among teachers
+- the experiment was framed by the topic gender-sensitive language in school with the leading question whether the **usage of generic masculine leads to a disproportionate association with male students** among teachers - in other words: male bias
 - First of all, the students indicated their belief on this topic - which was our dependent variable belief direction
 - and how certain they are in this belief - DV belief certainty (likert item)
-- then participants were confronted with a vignette informing about an experimental study on the topic of male bias. In this vignette the study results randomly either supported the existens of a male bias or not. This was our experimental manipulation that allowed us to derive the variable incongruency of belief and evidence
+- then participants were confronted with a vignette informing about an experimental study on the topic of male bias. In this vignette the study results randomly either supported the existence of a male bias or not. This was our experimental manipulation that allowed us to derive the variable incongruency of belief and evidence. So the results were not per se belief-incongruent or belief-congruent, it was always an interplay with the indicated beliefs.
 
 - after reading the vignette they evaluated the studies' quality (likter item) and again indicated their belief direction and certainty 
 
@@ -259,7 +259,6 @@ and here are the results
 ::: notes
 
 with regard to the first RQ, whether student teachers' prior beliefs influence the evaluation of study results, we found - as you can see in this visualization - that 
-
 - student teachers facing belief-congruent evidence were more convinced by the results than those students facing belief-incongruent results
 - this large effect was also backed up with Bayesian inferential statistic
 
@@ -274,8 +273,10 @@ with regard to the first RQ, whether student teachers' prior beliefs influence t
 
 ::: notes
 
-- Regarding RQ2 you can see that in both experimental groups most of the participants stick to their prior beliefs - which you can see in the light green rectangles. For example, 84 students who believed that male bias does not exist (indicated by 2), believed the same after seeing belief-incogruent evidence
-- Another example: 15 people that believed that male bias does not exist indicated by 2, whereas after reading belief-incongruent evidence that they believed in the existence of male bias
+- Coming to RQ2
+- in the two facets you can see the two experimental groups 
+- most of the participants stick to their prior beliefs - which you can see in the light green rectangles. For example, 84 students who believed that male bias does not exist (indicated by 2), after seeing evidence that supported the existence of male bias, they still believed the same 
+- Another example: 15 people that believed that male bias does not exist indicated by 2, whereas after reading evidence that supperted the existence of male bias that they updated their belief in line with the evdence 
 - However, the Bayesian analysis were inconclusive
 
 ::: 
@@ -325,8 +326,8 @@ Student teachers evaluate scientific evidence based on their beliefs
 
 * different aspects to discuss but I will focus one 2 things: 
 
-* We an conclude that the study partially replicated the discrepancy between selective judgment and belief updating
-* First, student teachers evaluate evidence based on their beliefs. Even if teachers engage with evidence it does not automaticallly mean this does not automatically lead to informed decisions So one take home message could be that we have to support student teachers in evalauting evidence 
+* We can conclude that the study partially replicated the discrepancy between selective judgment and belief updating
+* First, student teachers evaluate evidence based on their beliefs. Even if teachers engage with evidence it does not automatically lead to informed decisions. So one take home message could be that we have to support student teachers in evaluating evidence 
 
 * However, they do not stick to their beliefs without any reflection. Because they update their certainty
 
@@ -359,7 +360,7 @@ Student teachers evaluate scientific evidence based on their beliefs
 
 - However, there is a difference between prior research and our study: our participants did not change their belief direction
 - But these results do not necessarily contradict each other because the belief updating might depend on evidence characteristics
-- while we presented on study on the topic of male bias thomm and colleagues as well as futterleib and collegues presented multiple results
+- while we presented one study on the topic of male bias thomm and colleagues as well as futterleib and collegues presented multiple results
 - another take home message: But one way could be confronting students with multiple evidence on the same topic
 - other influencing factors might also exist, e.g. context. There might be beliefs that are harder to debunk than others. 
 
